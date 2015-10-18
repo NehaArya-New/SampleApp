@@ -1,9 +1,11 @@
-package com.example.mac.demoapp;
+package com.example.mac.demoapp.UI.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.example.mac.demoapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
